@@ -1,4 +1,4 @@
-# CODSOFT
+# CONCEPT_SIMPLIFIED
 ## ML Internship Tasks
 ### Task#1 MOVIE GENRE CLASSIFICATION
 The movie genre classification model employs TF-IDF text representation and Logistic Regression for predicting movie genres based on descriptions. TF-IDF captures term importance, while Logistic Regression learns genre patterns. The model's accuracy is assessed using a test dataset, enabling accurate genre prediction for new movie descriptions.
